@@ -1,0 +1,24 @@
+# Unity caches, local settings, and generated output
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Local IDE settings and Unity-generated solution files
+/.vs/
+/.vscode/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+/*.user
+/*.suo
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
